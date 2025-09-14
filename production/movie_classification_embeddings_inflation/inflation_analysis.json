@@ -1,0 +1,9 @@
+{
+  "revenue_original_mean": 90835875.44537972,
+  "revenue_adjusted_mean": 169273988.5249273,
+  "budget_original_mean": 31255071.901421625,
+  "budget_adjusted_mean": 55325874.69401817,
+  "revenue_correlation": 0.8877532963985503,
+  "budget_correlation": 0.9024026533777445,
+  "base_year": 2023
+}

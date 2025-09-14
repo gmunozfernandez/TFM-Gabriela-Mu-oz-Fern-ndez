@@ -1,0 +1,24 @@
+{
+  "threshold_revenue": 45641999.99999993,
+  "percentile_used": 0.7,
+  "split_type": "temporal",
+  "year_split": 2014,
+  "n_svd_components": 203,
+  "random_state": 42,
+  "best_model": "HistGradientBoosting",
+  "inflation_adjustment": {
+    "applied": true,
+    "base_year": 2023,
+    "revenue_impact_percent": null,
+    "budget_impact_percent": null
+  },
+  "best_metrics": {
+    "accuracy": 0.9159926470588236,
+    "f1_score": 0.7428249859313449,
+    "roc_auc": 0.9541358342632132
+  },
+  "winsorization": {
+    "low": 24.22,
+    "high": 607890998.5800034
+  }
+}
